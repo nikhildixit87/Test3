@@ -1,0 +1,6 @@
+F:\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+F:\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+F:\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+F:\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+F:\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
+F:\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+F:\PromotionEngine\PromotionEngineTests\bin\Debug\PromotionEngineTests.dll
+F:\PromotionEngine\PromotionEngineTests\bin\Debug\PromotionEngineTests.pdb
+F:\PromotionEngine\PromotionEngineTests\bin\Debug\PromotionEngine.exe
+F:\PromotionEngine\PromotionEngineTests\bin\Debug\PromotionEngine.pdb
+F:\PromotionEngine\PromotionEngineTests\obj\Debug\PromotionEngineTests.csprojResolveAssemblyReference.cache
+F:\PromotionEngine\PromotionEngineTests\obj\Debug\PromotionEngineTests.dll
+F:\PromotionEngine\PromotionEngineTests\obj\Debug\PromotionEngineTests.pdb
